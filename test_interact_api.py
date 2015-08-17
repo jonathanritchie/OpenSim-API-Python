@@ -162,12 +162,16 @@ def test_print_body_structure():
     # Create copy of the gait model.
     gait_model = opensim.Model(os.environ["OPENSIM_HOME"] + "/Models/Gait2392_Simbody/gait2392_simbody.osim")
     
+    
+    
     pass
 
 def test_print_constraint_structure():
     
     # Create copy of the gait model.
     gait_model = opensim.Model(os.environ["OPENSIM_HOME"] + "/Models/Gait2392_Simbody/gait2392_simbody.osim")
+    
+    
     
     pass
 
@@ -176,12 +180,16 @@ def test_print_markers_structure():
     # Create copy of the gait model.
     gait_model = opensim.Model(os.environ["OPENSIM_HOME"] + "/Models/Gait2392_Simbody/gait2392_simbody.osim")
     
+    
+    
     pass
 
 def test_print_contact_geometry_structure():
     
     # Create copy of the gait model.
     gait_model = opensim.Model(os.environ["OPENSIM_HOME"] + "/Models/Gait2392_Simbody/gait2392_simbody.osim")
+    
+    
     
     pass
 
@@ -190,6 +198,8 @@ def test_print_controllers_structure():
     # Create copy of the gait model.
     gait_model = opensim.Model(os.environ["OPENSIM_HOME"] + "/Models/Gait2392_Simbody/gait2392_simbody.osim")
     
+    
+    
     pass
 
 def test_print_probe_structure():
@@ -197,12 +207,16 @@ def test_print_probe_structure():
     # Create copy of the gait model.
     gait_model = opensim.Model(os.environ["OPENSIM_HOME"] + "/Models/Gait2392_Simbody/gait2392_simbody.osim")
     
+    
+    
     pass
 
 def test_print_components_structure():
     
     # Create copy of the gait model.
     gait_model = opensim.Model(os.environ["OPENSIM_HOME"] + "/Models/Gait2392_Simbody/gait2392_simbody.osim")
+    
+    
     
     pass
     
